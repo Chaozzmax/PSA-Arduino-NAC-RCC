@@ -1774,92 +1774,116 @@
               {
                 "value": "00",
                 "text": {
-                  "fr": "Etat 1",
-                  "en": "State 1"
+                  "fr": "manquant",
+                  "en": "absent"
                 }
               },
               {
                 "value": "10",
                 "text": {
-                  "fr": "Etat 2",
-                  "en": "State 2"
+                  "fr": "VCCF - Famille HDC AEE2004",
+                  "en": "AEE2004 type"
                 }
               },
               {
                 "value": "20",
                 "text": {
-                  "fr": "Etat 3",
-                  "en": "State 3"
+                  "fr": "VCI W2 - Famille HDC AEE2010",
+                  "en": "AEE2010 W2"
                 }
               },
               {
                 "value": "30",
                 "text": {
-                  "fr": "Etat 4",
-                  "en": "State 4"
+                  "fr": "VCI A9 T9 - Famille HDC AEE2010",
+                  "en": "AEE2010 A9, T9"
                 }
               },
               {
                 "value": "40",
                 "text": {
-                  "fr": "Etat 5",
-                  "en": "State 5"
+                  "fr": "VCI K0 - Famille HDC AEE2010",
+                  "en": "AEE2010 K0"
                 }
               },
               {
                 "value": "50",
                 "text": {
-                  "fr": "Etat 6",
-                  "en": "State 6"
+                  "fr": "VCI B7 2 pavés type1 - Famille HDC AEE2010",
+                  "en": "AEE2010 B7 Type 1, 2 pads"
                 }
               },
               {
                 "value": "60",
                 "text": {
-                  "fr": "Etat 7",
-                  "en": "State 7"
+                  "fr": "VCI B7 2 pavés type2 - Famille HDC AEE2010",
+                  "en": "AEE2010 B7 Type 2, 2 pads"
                 }
               },
               {
                 "value": "70",
                 "text": {
-                  "fr": "Etat 8",
-                  "en": "State 8"
+                  "fr": "VCI B7 4 pavés type1 - Famille HDC AEE2010",
+                  "en": "AEE2010 B7 Type 2, 2 pads"
                 }
               },
               {
                 "value": "80",
                 "text": {
-                  "fr": "Etat 9",
-                  "en": "State 9"
+                  "fr": "VCI B7 4 pavés type2 - Famille HDC AEE2010",
+                  "en": "AEE2010 B7 Type 2, 4 pads"
                 }
               },
               {
                 "value": "90",
                 "text": {
-                  "fr": "Etat 10",
+                  "fr": "VCI B8 - Famille HDC AEE2010 ",
                   "en": "State 10"
                 }
               },
               {
                 "value": "A0",
                 "text": {
-                  "fr": "Etat 11",
-                  "en": "State 11"
+                  "fr": "VCI M44ch BZ3 - Famille HDC AEE2004 et AEE2010",
+                  "en": "AEE2004 and AEE2010 M44ch BZ3"
                 }
               },
               {
                 "value": "B0",
                 "text": {
-                  "fr": "Etat 12",
-                  "en": "State 12"
+                  "fr": "VCI GM - Famille HDC AEE2010",
+                  "en": "AEE2010 GM"
                 }
               },
               {
                 "value": "C0",
                 "text": {
-                  "fr": "Etat 13",
-                  "en": "State 13"
+                  "fr": "VCI Transversal - Famille HDC AEE2010",
+                  "en": "AEE2010 multi-brand"
+                }
+              }
+              ,
+              {
+                "value": "D0",
+                "text": {
+                  "fr": "CSV - Famille HDC AEE2010",
+                  "en": "AEE2010 CSV"
+                }
+              }
+              ,
+              {
+                "value": "E0",
+                "text": {
+                  "fr": "CSV K0 - Famille HDC AEE2010",
+                  "en": "AEE2010 K0"
+                }
+              }
+              ,
+              {
+                "value": "F0",
+                "text": {
+                  "fr": "VCI B7 2 pavés type3 - Famille HDC AEE2010",
+                  "en": "AEE2010 B7 Type 3, 2 pads"
                 }
               }
             ],
